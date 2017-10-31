@@ -1,6 +1,6 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
+  item_count = {"books" => 10, "shoes" => 6, "friends" => 0}
   
 end
 
